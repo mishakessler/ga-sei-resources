@@ -1,30 +1,30 @@
 # Resources for Web Dev & Software Engineering
 
-# Table of Contents
+### Table of Contents
 - [Coding](#coding)
-- [Web Dev](#web%20dev)
-  * [Domain Registrars](##domain%20registrars)
-  * [Hosting](##hosting)
-- [Web Design](#web%20design)
-  * [Software](##software)
-  * [Wireframing](##wireframing)
-  * [Mockups](##mockups)
-  * [Stock Media](##stock%20media)
-- [Graphic Design](#graphic%20design)
-  * [Software](##software)
-  * [Color Palettes](##color%20palettes)
-  * [Fonts & Typographies](##fonts%20and%20typographies)
-– [Brand Design](#brand-design)
+- [Web Dev](#web_dev)
+  * [Domain Registrars](#domain_registrars)
+  * [Hosting](#hosting)
+- [Web Design](#web_design)
+  * [Software](#software)
+  * [Wireframing](#wireframing)
+  * [Mockups](#mockups)
+  * [Stock Media](#stock_media)
+- [Graphic Design](#graphic_design)
+  * [Software](#software)
+  * [Color Palettes](#color%20palettes)
+  * [Fonts & Typographies](#fonts%20and%20typographies)
+– [Brand Design](#brand_design)
 - [Inspiration](#inpspiration)
-  * [Website Insp.](##website%20insp.)
-  * [Graphic Design Ins.](##graphic%20design%20insp.)
-  * [Brand Design Ins.](##brand%20design%20insp.)
+  * [Website Insp.](#website%20insp.)
+  * [Graphic Design Ins.](#graphic%20design%20insp.)
+  * [Brand Design Ins.](#brand%20design%20insp.)
 - [Legal](#legal)
   * [Terms of Use, Service, Conditions](##terms%20of%20use,%20service,%20conditions)
   * [Data Use, Protection, & Privacy](##data%20use,%20protection,%20&%20privacy)
-- [Communities & Networking](#communities%20&%20networking)
+- [Communities & Networking](#communities_&_networking)
 - [Conferences](#conferences)
-- [Job Boards](#job-boards)
+- [Job Boards](#job_boards)
 
 
 # CODING
@@ -37,7 +37,7 @@ _Premium_
 * 
 
 
-# WEB DEV
+# WEB_DEV
 ## Domain Registrars
 _Premium_
 * GoDaddy
@@ -46,7 +46,7 @@ _Premium_
 * DreamHost
 
 
-# WEB DESIGN
+# WEB_DESIGN
 ## Local Dev Software
 _Free_
 * MAMP 
@@ -77,7 +77,7 @@ _Premium_
 * 
 
 
-# GRAPHIC DESIGN
+# GRAPHIC_DESIGN
 ## Graphics Software
 _Free_
 * Vectr https://vectr.com/
@@ -102,7 +102,7 @@ _Premium_
 * 
 
 
-# BRAND DESIGN
+# BRAND_DESIGN
 _Free_
 * 
 _Freemium_
@@ -149,7 +149,7 @@ _Free_
 * https://devops.com/make-software-hipaa-compliant/
 
 
-# COMMUNITIES & NETWORKING
+# COMMUNITIES_&_NETWORKING
 * BuiltInNYC https://www.builtinnyc.com/
 * Meetup https://www.meetup.com/
 * NY Tech Alliance
@@ -159,5 +159,5 @@ _Free_
 * Awwwards Conference (NYC, September)
 
 
-# JOB BOARDS
+# JOB_BOARDS
 * BuiltInNYC Job Listings https://www.builtinnyc.com/jobs
