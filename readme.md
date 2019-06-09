@@ -16,13 +16,13 @@
   * [Fonts & Typographies](#fonts-and-typographies)
 - [Brand Design](#brand-design)
 - [Inspiration](#inpspiration)
-  * [Website Insp.](#website-insp.)
-  * [Graphic Design Ins.](#graphic-design-insp.)
-  * [Brand Design Ins.](#brand-design-insp.)
+  * [Website Insp.](#website-insp)
+  * [Graphic Design Ins.](#graphic-design-insp)
+  * [Brand Design Ins.](#brand-design-insp)
 - [Legal](#legal)
-  * [Terms of Use, Service, Conditions](##terms-of-use,-service,-conditions)
-  * [Data Use, Protection, & Privacy](##data-use,-protection,-&-privacy)
-- [Communities & Networking](#communities-&-networking)
+  * [Terms of Use, Service, Conditions](##terms-of-use-service-conditions)
+  * [Data Use, Protection, & Privacy](##data-use-protection--privacy)
+- [Communities & Networking](#communities--networking)
 - [Conferences](#conferences)
 - [Job Boards](#job-boards)
 
@@ -30,11 +30,8 @@
 ### Key
 
 H1 Industry
-
 H2 Subject
-
 * Service (em dash) _Price_ (em dash) Description
-
 
 
 ---
