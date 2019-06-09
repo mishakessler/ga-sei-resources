@@ -14,7 +14,7 @@
   * [Software](#software)
   * [Color Palettes](#color-palettes)
   * [Fonts & Typographies](#fonts-and-typographies)
-– [Brand Design](#brand-design)
+- [Brand Design](#brand-design)
 - [Inspiration](#inpspiration)
   * [Website Insp.](#website-insp.)
   * [Graphic Design Ins.](#graphic-design-insp.)
@@ -27,108 +27,89 @@
 - [Job Boards](#job-boards)
 
 
+### Key
 
+H1 Industry
+
+H2 Subject
+
+* Service (em dash) _Price_ (em dash) Description
+
+
+
+---
 # CODING
 
 ## Coding Software
-_Free_
-* 
-_Freemium_
-* 
-_Premium_
-* 
 
 
-
+---
 # WEB DEV
 
 ## Domain Registrars
-_Premium_
+
 * GoDaddy
 
 ## Hosting
-_Premium_
+
 * DreamHost
 
 
-
+---
 # WEB DESIGN
 
 ## Local Dev Environment Software
-_Free_
-* MAMP 
-_Freeium_
-* 
-_Premium_
-* MAMP Pro
+
+* MAMP – _Freemium_ – Local dev server for Nginx & Apache; Paid Upgrades Available.
+* MAMP Pro – _Premium_ – Fully loaded and upgraded MAMP.
+
+## Sitemapping
+
+* GlooMaps – _Free_ – Great option for quick and easy sitemap trees, with saving and sharing functions.
 
 ## Wireframing
-_Free_
-* 
-_Freemium_
-* Adobe XD (Free Wireframe Kits, Premium Templates)
-_Premium_
-* 
+
+* Adobe XD – _Freemium_ – Free wireframing, advanced responsiveness and runthrough features, with free templates for quick framing.
 
 ## Mockups
-_Free_
-* 
-_Freemium_
-* 
-_Premium_
+
 * 
 
 ## Stock Media
-_Free_
-* Unsplash
-_Freemium_
-* DeathtoStockPhoto.com
-_Premium_
-* 
+
+* DeathtoStockPhoto.com – _Freemium_ – Free monthly download packs from highly talented photographers and flexible licensing. Rejects bad stock photos. 
+* Unsplash – _Free_ – 
 
 
-
+---
 # GRAPHIC DESIGN
 
 ## Graphics Software
-_Free_
-* Vectr https://vectr.com/
-_Freemium_ 
-* 
-_Premium_
-* Adobe Illustrator
+
+* Adobe Illustrator – _Premium_ – Editing for vector graphics.
+* Adobe Photoshop – _Premium_ – Editing for raster graphics.
+* Vectr – _Free_ – https://vectr.com/
 
 ## Color Palettes
-_Free_
-* Coolors.co
-_Freemium_
-*
-_Premium_
-* 
+
+* Colormind.io – _Free_ –
+* Coolors.co – _Free_ – 5 color palette selection with saving, exporting, sharing features.
 
 ## Fonts & Typographies
-_Free_
-* Google Fonts
-* FontJoy (Font Selection)
-_Freemium_
-* Adobe Type
-_Premium_
-* 
 
+* Adobe Type – _Freemium_ –
+* FontJoy – _Free_ – Font pairings.
+* Google Fonts – _Free_ –
 
+---
 # BRAND DESIGN
-_Free_
-* 
-_Freemium_
-* 
-_Premium_
-* 
 
 
-
+---
 # INSPIRATION
 
 ## Website Insp.
+
 * Awwwards https://www.awwwards.com/
 * CSS Nectar https://cssnectar.com/
 * SiteInspire https://www.siteinspire.com/
@@ -136,39 +117,48 @@ _Premium_
 * Web Design Inspiration https://www.webdesign-inspiration.com/
 
 ## Graphic Design Insp.
-* 
+
+* InspirationGrid https://theinspirationgrid.com/
 
 ## Brand Design Insp.
+
 * Logo Moose https://www.logomoose.com/
 * Logopond https://logopond.com/
 * Logospire http://logospire.com/
 * 99Designs Discover https://99designs.com/discover
 
 
-
+---
 # LEGAL
 
 ## Terms of Use, Service, Conditions
 
 ### Terms Templates & Generators
-_Free_
+
 * TermsUseTemplate https://www.termsusetemplate.com/
 * TermsConditionsTemplate https://www.termsconditionstemplate.net/
 * TermsServiceTemplates https://www.termsservicetemplate.com/
+
 ### Terms Info
-* 
+
 
 ## Data Use, Protection, & Privacy
 
 ### Privacy Templates & Generators
-_Free_
+
 * CookiesPolicyTemplates https://www.cookiespolicytemplate.com/
 * PrivacyPolicyTemplates https://www.privacy-policy-template.com/
+
 ### GDPR Info (EU-based visitors)
+
 * https://gdpr-info.eu/
+
 ### CalOppa Info (Cali-based visitors)
+
 * https://consumercal.org/about-cfc/cfc-education-foundation/california-online-privacy-protection-act-caloppa-3/
+
 ### HIPAA Info (Healthcare)
+
 * https://devops.com/make-software-hipaa-compliant/
 
 
@@ -176,14 +166,15 @@ _Free_
 # CAREER 
 
 ## Communities & Networking
+
 * BuiltInNYC https://www.builtinnyc.com/
 * Meetup https://www.meetup.com/
 * NY Tech Alliance
 
-
 ## Conferences
+
 * Awwwards Conference (NYC, September)
 
-
 ## Job Boards
+
 * BuiltInNYC Job Listings https://www.builtinnyc.com/jobs
