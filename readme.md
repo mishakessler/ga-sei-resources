@@ -13,7 +13,8 @@
 - [Graphic Design](#graphic-design)
   * [Software](#software)
   * [Color Palettes](#color-palettes)
-  * [Fonts & Typographies](#fonts-and-typographies)
+  * [Fonts & Typographies](#fonts--typographies)
+  * [Icons & Symbols](#icons--symbols)
 - [Brand Design](#brand-design)
 - [Inspiration](#inpspiration)
   * [Website Insp.](#website-insp)
@@ -31,8 +32,12 @@
 
 H1 Industry
 H2 Subject
-* Service (em dash) _Price_ (em dash) Description
+* Service (em dash) _Price_ (em dash) Description (em dash) URL
 
+_Free_ – Royalty-free, cost-free resources or services. May require attribution. May *not* allow commercial use.
+_Freemium_ – Free basic resources or services with paid upgrade or access options. Generally requires attribution.
+_Premium_ – Paid resources or services.
+_Donationware_ – Invited to donate but free to use.
 
 ---
 # CODING
@@ -70,12 +75,23 @@ H2 Subject
 
 ## Mockups
 
-* 
+* Freepik – _Free_ and _Premium_ – Graphic asset library for all kinds of media needs. – https://www.freepik.com/
+* Mockup World – _Free_ – Free mockup templates for all kinds of design/brand needs. – https://www.mockupworld.co/all-mockups/
 
 ## Stock Media
 
-* DeathtoStockPhoto.com – _Freemium_ – Free monthly download packs from highly talented photographers and flexible licensing. Rejects bad stock photos. 
-* Unsplash – _Free_ – 
+_Editor's note – probably my best assets knowledge. DTSP and Unsplash have been great for my previous projects._
+
+* Adobe Stock – _Premium_ – https://stock.adobe.com/
+* DeathtoStockPhoto.com – _Freemium_ – Free monthly download packs from highly talented photographers and flexible licensing. Rejects bad stock photos. – https://deathtothestockphoto.com/ 
+* Freepik – _Freemium_ – Graphic asset library for all kinds of media needs. – https://www.freepik.com/
+* Gratisography – _Free_ – "Quirky" stock photos. – https://gratisography.com/ 
+* LittleVisuals – _Donationware_ – HQ, non-traditional stock. – https://littlevisuals.co/
+* PicJumbo – _Free_ – https://picjumbo.com/
+* SplitShire – _Free_ – https://www.splitshire.com/
+* Startup Stock Photos – _Free_ – https://startupstockphotos.com/
+* StockSnap – _Free_ – https://stocksnap.io/
+* Unsplash – _Free_ – https://unsplash.com/
 
 
 ---
@@ -94,13 +110,19 @@ H2 Subject
 
 ## Fonts & Typographies
 
-* Adobe Type – _Freemium_ –
+* Adobe Type – _Freemium_ – 
 * FontJoy – _Free_ – Font pairings.
 * Google Fonts – _Free_ –
 
----
-# BRAND DESIGN
+## Icons & Symbols
 
+* ElegantThemes Icon Font – _Free_ – https://www.elegantthemes.com/blog/resources/elegant-icon-font
+* NounProject – _Freemium_ – access to icon library. Free with attribution. – https://thenounproject.com/
+
+---
+# PRODUCT DESIGN
+
+* InVision – _Premium_ – All in one, team based product design. – https://www.invisionapp.com/
 
 ---
 # INSPIRATION
