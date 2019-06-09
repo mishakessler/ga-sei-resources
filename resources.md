@@ -2,32 +2,34 @@
 
 ### Table of Contents
 - [Coding](#coding)
-- [Web Dev](#web_dev)
-  * [Domain Registrars](#domain_registrars)
+- [Web Dev](#web-dev)
+  * [Domain Registrars](#domain-registrars)
   * [Hosting](#hosting)
-- [Web Design](#web_design)
+- [Web Design](#web-design)
   * [Software](#software)
   * [Wireframing](#wireframing)
   * [Mockups](#mockups)
-  * [Stock Media](#stock_media)
-- [Graphic Design](#graphic_design)
+  * [Stock Media](#stock-media)
+- [Graphic Design](#graphic-design)
   * [Software](#software)
-  * [Color Palettes](#color%20palettes)
-  * [Fonts & Typographies](#fonts%20and%20typographies)
-– [Brand Design](#brand_design)
+  * [Color Palettes](#color-palettes)
+  * [Fonts & Typographies](#fonts-and-typographies)
+– [Brand Design](#brand-design)
 - [Inspiration](#inpspiration)
-  * [Website Insp.](#website%20insp.)
-  * [Graphic Design Ins.](#graphic%20design%20insp.)
-  * [Brand Design Ins.](#brand%20design%20insp.)
+  * [Website Insp.](#website-insp.)
+  * [Graphic Design Ins.](#graphic-design-insp.)
+  * [Brand Design Ins.](#brand-design-insp.)
 - [Legal](#legal)
-  * [Terms of Use, Service, Conditions](##terms%20of%20use,%20service,%20conditions)
-  * [Data Use, Protection, & Privacy](##data%20use,%20protection,%20&%20privacy)
-- [Communities & Networking](#communities_&_networking)
+  * [Terms of Use, Service, Conditions](##terms-of-use,-service,-conditions)
+  * [Data Use, Protection, & Privacy](##data-use,-protection,-&-privacy)
+- [Communities & Networking](#communities-&-networking)
 - [Conferences](#conferences)
-- [Job Boards](#job_boards)
+- [Job Boards](#job-boards)
+
 
 
 # CODING
+
 ## Coding Software
 _Free_
 * 
@@ -37,30 +39,37 @@ _Premium_
 * 
 
 
-# WEB_DEV
+
+# WEB DEV
+
 ## Domain Registrars
 _Premium_
 * GoDaddy
+
 ## Hosting
 _Premium_
 * DreamHost
 
 
-# WEB_DESIGN
-## Local Dev Software
+
+# WEB DESIGN
+
+## Local Dev Environment Software
 _Free_
 * MAMP 
 _Freeium_
 * 
 _Premium_
 * MAMP Pro
+
 ## Wireframing
 _Free_
 * 
 _Freemium_
-* Adobe XD
+* Adobe XD (Free Wireframe Kits, Premium Templates)
 _Premium_
 * 
+
 ## Mockups
 _Free_
 * 
@@ -68,6 +77,7 @@ _Freemium_
 * 
 _Premium_
 * 
+
 ## Stock Media
 _Free_
 * Unsplash
@@ -77,14 +87,17 @@ _Premium_
 * 
 
 
-# GRAPHIC_DESIGN
+
+# GRAPHIC DESIGN
+
 ## Graphics Software
 _Free_
 * Vectr https://vectr.com/
 _Freemium_ 
 * 
 _Premium_
-* Adobe Illustrator 
+* Adobe Illustrator
+
 ## Color Palettes
 _Free_
 * Coolors.co
@@ -92,6 +105,7 @@ _Freemium_
 *
 _Premium_
 * 
+
 ## Fonts & Typographies
 _Free_
 * Google Fonts
@@ -102,7 +116,7 @@ _Premium_
 * 
 
 
-# BRAND_DESIGN
+# BRAND DESIGN
 _Free_
 * 
 _Freemium_
@@ -111,14 +125,19 @@ _Premium_
 * 
 
 
+
 # INSPIRATION
+
 ## Website Insp.
 * Awwwards https://www.awwwards.com/
 * CSS Nectar https://cssnectar.com/
 * SiteInspire https://www.siteinspire.com/
 * TemplateMonster https://www.templatemonster.com/
+* Web Design Inspiration https://www.webdesign-inspiration.com/
+
 ## Graphic Design Insp.
 * 
+
 ## Brand Design Insp.
 * Logo Moose https://www.logomoose.com/
 * Logopond https://logopond.com/
@@ -126,17 +145,21 @@ _Premium_
 * 99Designs Discover https://99designs.com/discover
 
 
+
 # LEGAL
+
 ## Terms of Use, Service, Conditions
+
 ### Terms Templates & Generators
 _Free_
 * TermsUseTemplate https://www.termsusetemplate.com/
 * TermsConditionsTemplate https://www.termsconditionstemplate.net/
 * TermsServiceTemplates https://www.termsservicetemplate.com/
-
 ### Terms Info
 * 
+
 ## Data Use, Protection, & Privacy
+
 ### Privacy Templates & Generators
 _Free_
 * CookiesPolicyTemplates https://www.cookiespolicytemplate.com/
@@ -149,15 +172,18 @@ _Free_
 * https://devops.com/make-software-hipaa-compliant/
 
 
-# COMMUNITIES_&_NETWORKING
+
+# CAREER 
+
+## Communities & Networking
 * BuiltInNYC https://www.builtinnyc.com/
 * Meetup https://www.meetup.com/
 * NY Tech Alliance
 
 
-# CONFERENCES
+## Conferences
 * Awwwards Conference (NYC, September)
 
 
-# JOB_BOARDS
+## Job Boards
 * BuiltInNYC Job Listings https://www.builtinnyc.com/jobs
