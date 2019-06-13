@@ -62,10 +62,14 @@ _Donationware_ – Invited to donate but free to use.
 ## Domain Registrars
 
 * GoDaddy
+* Google Domains
+* NameCheap 
 
 ## Hosting
 
+* AWS Web Hosting
 * DreamHost
+* Google Hosting
 
 
 ---
