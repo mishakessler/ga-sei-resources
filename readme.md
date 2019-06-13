@@ -42,7 +42,18 @@ _Donationware_ – Invited to donate but free to use.
 ---
 # CODING
 
-## Coding Software
+## Tools & Plugins
+
+### Chrome Extensions
+
+* Clear Cache – Great for quick cache clearing, if local cacheing is interfering with site changes being rendered. – https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn
+* ColorPick Eyedropper – Great for finding exact colors of any rendered colors. – https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg
+* Picture-in-Picture – Creates a PIP video player, great for watching tutorials while coding. – https://chrome.google.com/webstore/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg
+
+### VisualCode Extensions
+
+* Bracket Pair Colorizer 2 – Coordinates bracket, curly brace, and parentheses colors for easy IDing. – https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2
+
 
 
 ---
@@ -107,6 +118,7 @@ _Editor's note – probably my best assets knowledge. DTSP and Unsplash have be
 
 * Colormind.io – _Free_ –
 * Coolors.co – _Free_ – 5 color palette selection with saving, exporting, sharing features.
+* UIGradients – _Free_ – Generates gradients for export to PNG or saving HEX codes. 
 
 ## Fonts & Typographies
 
