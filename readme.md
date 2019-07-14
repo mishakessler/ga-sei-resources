@@ -75,10 +75,9 @@ _Donationware_ – Invited to donate but free to use.
 ---
 # WEB DESIGN
 
-## Local Dev Environment Software
+## UI Libraries
 
-* MAMP – _Freemium_ – Local dev server for Nginx & Apache; Paid Upgrades Available.
-* MAMP Pro – _Premium_ – Fully loaded and upgraded MAMP.
+* Material UI – https://material-ui.com/getting-started/installation/
 
 ## Sitemapping
 
@@ -134,6 +133,7 @@ _Editor's note – probably my best assets knowledge. DTSP and Unsplash have be
 
 * ElegantThemes Icon Font – _Free_ – https://www.elegantthemes.com/blog/resources/elegant-icon-font
 * NounProject – _Freemium_ – access to icon library. Free with attribution. – https://thenounproject.com/
+* WorldVectorLogo - _Free_ - Popular corporate logos worldwide. https://worldvectorlogo.com/
 
 ---
 # PRODUCT DESIGN
