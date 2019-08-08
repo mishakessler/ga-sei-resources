@@ -50,11 +50,6 @@ _Donationware_ – Invited to donate but free to use.
 * ColorPick Eyedropper – Great for finding exact colors of any rendered colors. – https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg
 * Picture-in-Picture – Creates a PIP video player, great for watching tutorials while coding. – https://chrome.google.com/webstore/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg
 
-### VisualCode Extensions
-
-* Bracket Pair Colorizer 2 – Coordinates bracket, curly brace, and parentheses colors for easy IDing. – https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2
-
-
 
 ---
 # WEB DEV
@@ -63,7 +58,7 @@ _Donationware_ – Invited to donate but free to use.
 
 * GoDaddy
 * Google Domains
-* NameCheap 
+* NameCheap
 
 ## Hosting
 
@@ -77,11 +72,15 @@ _Donationware_ – Invited to donate but free to use.
 
 ## UI Libraries
 
-* Material UI – https://material-ui.com/getting-started/installation/
+* MaterialUI – https://material-ui.com/getting-started/installation/
+* SemanticUI -
+* ReactSpring – 
+
 
 ## Sitemapping
 
 * GlooMaps – _Free_ – Great option for quick and easy sitemap trees, with saving and sharing functions.
+* Drawio – _Free_ – Allows for advanced ERD mapping, symbols, etc. www.draw.io
 
 ## Wireframing
 
@@ -93,8 +92,6 @@ _Donationware_ – Invited to donate but free to use.
 * Mockup World – _Free_ – Free mockup templates for all kinds of design/brand needs. – https://www.mockupworld.co/all-mockups/
 
 ## Stock Media
-
-_Editor's note – probably my best assets knowledge. DTSP and Unsplash have been great for my previous projects._
 
 * Adobe Stock – _Premium_ – https://stock.adobe.com/
 * DeathtoStockPhoto.com – _Freemium_ – Free monthly download packs from highly talented photographers and flexible licensing. Rejects bad stock photos. – https://deathtothestockphoto.com/ 
